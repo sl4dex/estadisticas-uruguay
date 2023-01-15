@@ -7,6 +7,8 @@ import Economia from './components/Economia'
 import Educacion from './components/Educacion'
 import DesarrolloSocial from './components/DesarrolloSocial'
 import SectorPublico from './components/SectorPublico'
+import MasInfo from './components/MasInfo'
+import SobreMi from './components/SobreMi'
 import sol from './assets/Sol_de_Mayo-Bandera_de_Uruguay.svg'
 
 function App() {
@@ -33,6 +35,8 @@ function App() {
             <Route path='educacion' element={<Educacion />} />
             <Route path='sector-publico' element={<SectorPublico />} />
           </Route>
+          <Route path='/mas-info' element={<MasInfo />} />
+          <Route path='/sobre-mi' element={<SobreMi />} />
         </Routes>
       </div>
     </div>
