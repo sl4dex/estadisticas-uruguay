@@ -1,4 +1,7 @@
-# Uruguay Estadísticas
+# ☀ Uruguay Estadísticas
+
+[sl4dex.github.io/estadisticas-uruguay](https://sl4dex.github.io/estadisticas-uruguay)
+
 Una web app que permite a usuarios consultar información actualizada sobre varios sectores en Uruguay incluyendo: Economía, Educación, Sector Público, ente otros.
 
 La información de cada sector es mostrada mediante indicadores anuales (ej: PIB, Tasa de alfabetización, Gasto militar, etc.).
