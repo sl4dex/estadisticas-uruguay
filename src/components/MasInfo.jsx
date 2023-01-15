@@ -7,8 +7,8 @@ export default function MasInfo() {
       <p className='mt-2 mb-4'>
         Otros sitios con información relevante
       </p>
-      <a href='https://www.ine.gub.uy/' target="_blank" className='text-blue-600'>Instituto Nacional de Estadística (INE)</a><br />
-      <a href='https://www.minterior.gub.uy/observatorio/index.php/estadisticas' target="_blank" className='text-blue-600'>Estadisticas del Ministerio del Interior</a>
+      <a href='https://www.ine.gub.uy/' target="_blank" className='text-blue-600 hover:text-sky-500'>Instituto Nacional de Estadística (INE)</a><br />
+      <a href='https://www.minterior.gub.uy/observatorio/index.php/estadisticas' target="_blank" className='text-blue-600 hover:text-sky-500'>Estadisticas del Ministerio del Interior</a>
     </>
   )
 }
